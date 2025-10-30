@@ -45,6 +45,7 @@ Tools and Technologies Used:
 5. VS Code (for writing and maintaining SQL scripts and documentation)
 
 Workflow Summary:
+
 . Uploaded all raw CSV files from the Olist dataset into Google Colab.
 . Cleaned each dataset using Pandas by removing null values and saved the cleaned files.
 . Created a new MySQL database olist_db and defined seven tables.
@@ -53,14 +54,19 @@ Workflow Summary:
 . Compiled the findings into a comprehensive analytical report.
 
 Conclusion:
+
 This project demonstrated the complete data analysis workflow—from cleaning raw data to performing SQL-based business intelligence.
 The insights revealed key trends in Olist’s e-commerce operations, helping to understand product demand, seller performance, customer spending, and payment preferences.
 Overall, the project highlights the combined use of Python and MySQL to transform raw data into actionable insights.
 
 Dataset Source:
+
 Olist Store Dataset — Kaggle
+
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Author:
+
 Taarak Naath Vallur
+
 Data Analyst | SQL & Python Enthusiast
