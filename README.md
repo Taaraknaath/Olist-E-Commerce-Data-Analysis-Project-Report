@@ -1,4 +1,5 @@
 Olist E-Commerce Data Analysis Project Report:
+
 Overview:
 This project explored and analyzed the Olist E-Commerce dataset from Kaggle — a detailed dataset representing real Brazilian online retail transactions. The goal was to clean, organize, and analyze this data using Python (Pandas) and MySQL 8.4 to uncover meaningful business insights such as top products, high-value customers, and popular payment methods.
 
