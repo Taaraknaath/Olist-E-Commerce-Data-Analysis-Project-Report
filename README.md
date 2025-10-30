@@ -72,6 +72,6 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Author:
 
-Taarak Naath Vallur
+Taaraknaath Vallur
 
 Data Analyst | SQL & Python Enthusiast
