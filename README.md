@@ -58,7 +58,6 @@ Overall, the project highlights the combined use of Python and MySQL to transfor
 
 Dataset Source:
 Olist Store Dataset — Kaggle
-
 https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Author:
