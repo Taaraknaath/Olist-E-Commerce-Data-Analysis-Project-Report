@@ -47,10 +47,15 @@ Tools and Technologies Used:
 Workflow Summary:
 
 . Uploaded all raw CSV files from the Olist dataset into Google Colab.
+
 . Cleaned each dataset using Pandas by removing null values and saved the cleaned files.
+
 . Created a new MySQL database olist_db and defined seven tables.
+
 . Imported the cleaned CSV files into MySQL using DBGate.
+
 . Ran SQL queries to perform business analysis and interpret key results.
+
 . Compiled the findings into a comprehensive analytical report.
 
 Conclusion:
